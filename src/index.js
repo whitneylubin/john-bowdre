@@ -8,9 +8,7 @@ import Sidebar from "./components/sidebar";
 import Header from "./components/header";
 import AboutSection from "./components/about";
 import ServicesSections from "./components/services";
-import CalloutSection from "./components/callout";
 import PortfolioSection from "./components/portfolio";
-import CallToAction from "./components/callToAction";
 import FooterSection from "./components/footer";
 import ScrollToTop from "./components/scrollToTop";
 
@@ -22,9 +20,7 @@ class App extends React.Component {
         <Header />
         <AboutSection />
         <ServicesSections />
-        <CalloutSection />
         <PortfolioSection />
-        <CallToAction />
         <FooterSection />
         <ScrollToTop />
       </div>
