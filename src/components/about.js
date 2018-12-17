@@ -32,10 +32,10 @@ const AboutSection = () => (
               audits and project guidance for existing applications.
             </p>
             <a
-              className="btn btn-dark btn-xl js-scroll-trigger"
+              className="btn btn-dark btn-md js-scroll-trigger"
               href="#services"
             >
-              What We Offer
+              Download My Resume
             </a>
           </div>
         </div>

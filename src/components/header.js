@@ -7,9 +7,6 @@ const Header = () => (
       <h3 className="mb-5">
         <em>Technology | China Trade</em>
       </h3>
-      <a className="btn btn-primary btn-xl js-scroll-trigger" href="#about">
-        Find Out More
-      </a>
     </div>
     <div className="overlay" />
   </header>
