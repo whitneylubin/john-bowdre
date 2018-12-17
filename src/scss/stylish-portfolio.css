@@ -98,6 +98,8 @@ h6 {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover; }
+  .masthead div {
+    background-color: rgba(255, 255, 255, 0.4); }
   .masthead h1 {
     font-size: 4rem;
     margin: 100;

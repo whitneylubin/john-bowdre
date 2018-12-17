@@ -15,6 +15,9 @@
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+  div {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
   h1 {
     font-size: 4rem;
     margin: 100;
